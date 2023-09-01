@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+@font-face {
+  font-family: 'D2 coding';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: local('D2Coding'), url('D2Coding.woff2') format('woff2'), url('D2Coding.woff') format('woff'), url('D2Coding.ttf') format('truetype'), url('D2Coding.svg') format('svg');
+}
+@font-face {
+  font-family: 'D2 coding';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: local('D2Coding Bold'), url('D2CodingBold.woff2') format('woff2'), url('D2CodingBold.woff') format('woff'), url('D2CodingBold.ttf') format('truetype'), url('D2CodingBold.svg') format('svg');
+}
